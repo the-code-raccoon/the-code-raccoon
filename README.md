@@ -8,7 +8,7 @@
 <h3 align="center"> Hi 👋, I'm Francesca!</h3>
 
 <p align="center">
-I'm a former computer science student turned bootcamp graduate 🎓 I'm a passionate, meticulous learner who's always willing to put in the work to learn new technologies and deepen my knowledge 💡 <i>Disclaimer: Not a raccoon</i>
+I'm a former computer science student turned bootcamp graduate 🎓 I'm a passionate, meticulous learner who's always willing to put in the work to learn new technologies and deepen my knowledge 💡 <i>Disclaimer: Not actually a raccoon</i>
 </p>
 
 - 📅 Avaliable for freelance web development work

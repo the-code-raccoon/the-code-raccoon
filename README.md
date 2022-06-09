@@ -22,9 +22,9 @@ I'm a former computer science student turned bootcamp graduate 🎓 I'm a passio
 | ----------------------|------------------------------------------------------- |
 | _[Charcuterie](https://github.com/robotsch/charcuterie)_| An in-restaurant web platform where customers can order through a mobile interface.|
 | _[Foodie](https://github.com/robotsch/Foodie)_| A restaurant ordering pickup app.|
-| _[Scheduler](https://github.com/otrachea/scheduler)_ | Create meetings for students book, edit and cancel interviews with mentors.
-| _[Theme Previewer](https://github.com/otrachea/theme-previewer)_ | Preview themes built with the built-in TailWindCSS colours.
-| _[Jungle](https://github.com/otrachea/jungle-rails)_ | An e-commerce website for a plant shop.
+| _[Scheduler](https://github.com/the-code-raccoon/scheduler)_ | Create meetings for students book, edit and cancel interviews with mentors.
+| _[Theme Previewer](https://github.com/the-code-raccoon/theme-previewer)_ | Preview themes built with the built-in TailWindCSS colours.
+| _[Jungle](https://github.com/the-code-raccoon/jungle-rails)_ | An e-commerce website for a plant shop.
 
 # <h2 align="center">Tech Stack</h2> 
 <div align="center">

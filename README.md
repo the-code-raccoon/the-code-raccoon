@@ -12,7 +12,7 @@ I'm a former computer science student turned bootcamp graduate 🎓 I'm a passio
 </p>
 
 - 📅 Avaliable for freelance web development work
-- 💪 Currently looking for full-time employment in software or web development!
+- 💪 Employed!
 - 📫 Email me at [francesca.ho459@gmail.com](mailto:francesca.ho459@gmail.com)
 
 

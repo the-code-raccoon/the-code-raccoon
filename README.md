@@ -11,19 +11,19 @@
    <i>Disclaimer: Not actually a raccoon</i>
 </p>
 
-- 📅 Avaliable for freelance web development work
-- 💪 Employed!
+<!-- - 📅 Avaliable for freelance web development work 
+- 💪 Employed!-->
 - 📫 Email me at [francesca.ho459@gmail.com](mailto:francesca.ho459@gmail.com)
 
 
-# <h2 align="center">My Best Work</h2>
+<!--# <h2 align="center">My Best Work</h2>
 
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
 | _[Charcuterie](https://github.com/robotsch/charcuterie)_| An in-restaurant web platform where customers can order through a mobile interface.|
 | _[Foodie](https://github.com/robotsch/Foodie)_| A restaurant ordering pickup app.|
 | _[Scheduler](https://github.com/the-code-raccoon/scheduler)_ | Create meetings for students book, edit and cancel interviews with mentors.
-<!-- | _[Theme Previewer](https://github.com/the-code-raccoon/theme-previewer)_ | Preview themes built with the built-in TailWindCSS colours.
+ | _[Theme Previewer](https://github.com/the-code-raccoon/theme-previewer)_ | Preview themes built with the built-in TailWindCSS colours.
 | _[Jungle](https://github.com/the-code-raccoon/jungle-rails)_ | An e-commerce website for a plant shop. -->
 
 # <h2 align="center">Tech Stack</h2> 
@@ -31,9 +31,6 @@
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
@@ -45,9 +42,11 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />

@@ -12,8 +12,8 @@
 </p>
 
 <!-- - 📅 Avaliable for freelance web development work 
-- 💪 Employed!-->
-- 📫 Email me at [francesca.ho459@gmail.com](mailto:francesca.ho459@gmail.com)
+- 💪 Employed!
+- 📫 Email me at [francesca.ho459@gmail.com](mailto:francesca.ho459@gmail.com)-->
 
 
 <!--# <h2 align="center">My Best Work</h2>

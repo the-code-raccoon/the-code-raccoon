@@ -68,10 +68,10 @@
   <a href="mailto:francesca.ho459@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-# <h2 align="center">Stats</h2> 
-<div align="center">
-  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=the-code-raccoon&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true" />
+<!--   # <h2 align="center">Stats</h2> -->
+<!--   <div align="center"> -->
+<!--     <img width="370px" src="https://github-readme-stats.vercel.app/api?username=the-code-raccoon&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true" /> -->
 <!--   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=the-code-raccoon&theme=tokyonight&background=00000000&hide_border=true" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-code-raccoon&exclude_repo=etrader&exclude+repo=doodlejump&theme=tokyonight&bg_color=00000000&hide_border=true" /> -->
-</div>
+<!--   </div> -->
 <p align="center">
